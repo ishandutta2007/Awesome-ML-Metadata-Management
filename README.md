@@ -64,7 +64,7 @@ The table below lists top commercial and managed SaaS platforms, sorted by **Com
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a list of top open-source projects for ML Metadata Management, sorted by **GitHub Star Count (Descending)**:
+Below is a list of top open-source projects for ML Metadata Management, sorted by **GitHub Stars_Count (Descending)**:
 
 1. 🌟 **[MLflow](https://github.com/mlflow/mlflow)** — [<img src="https://img.shields.io/github/stars/mlflow/mlflow?style=social" alt="MLflow Stars"/>](https://github.com/mlflow/mlflow/stargazers)  
    *Leading open-source AI engineering platform for experiment tracking, model registry, prompt evaluation, and LLM tracing. Fully self-hostable.*
@@ -124,7 +124,7 @@ Below is a list of top open-source projects for ML Metadata Management, sorted b
 Contributions are welcome! Please follow these steps to add or update entries:
 
 1. Fork this repository.
-2. Edit `README.md` maintaining table formatting, pricing specs, and star badges.
+2. Edit `README.md` maintaining table formatting, pricing specs, and Stars_Badges.
 3. Keep descriptions factual, unbiased, and include official project/site links.
 4. Open a Pull Request with a clear description of your changes.
 
